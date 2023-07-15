@@ -1,0 +1,1 @@
+Hi everyone this is a text introduction page , just to check if the static directory is working or not.
